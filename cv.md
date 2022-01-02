@@ -14,7 +14,7 @@ HTML, CSS, Git, VS Code, Codepen.
 
 ## My portfolio in Codepen:
 
-<code>
+```
 <style>
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
@@ -258,7 +258,7 @@ footer p {
   <p>Privacy</p>
   </footer>
 
-</code>
+```
 
 ## Work experience:
 
