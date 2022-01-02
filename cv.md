@@ -291,3 +291,5 @@ footer p {
 ## Languages:
 	
 Uzbek, Russian, English *(C1-IELTS 7.5)*, Korean and Arabic.
+
+https://Mirshod-rgb.github.io/rsschool-cv/cv
