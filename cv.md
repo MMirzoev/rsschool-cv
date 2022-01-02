@@ -264,17 +264,18 @@ footer p {
 
 1 Feb 2018–Present	Senior Specialist of Procurement department <br>
 	POSCO International Textile LLC Bukhara Branch (foreign company)<br>
+<br>	
 5 Oct 2015–30 Jun 2016	Specialist of Corporate customer service department<br>
 	Kapitalbank Bukhara branch, Joint Stock Commercial Bank (JSCB)<br>
-  
+ <br> 
 ## Education:
 
 18 Nov 2020-now Web development <br>
   freeCodeCamp.org<br>
-
+<br>
 1 Sep 2011–30 Jun 2015	Bachelor's degree in Banking<br>
 	Tashkent Financial Institute <br>
-
+<br>
 ## Languages:
 	
 Uzbek, Russian, English (IELTS 7.5), Korean and Arabic.
