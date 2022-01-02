@@ -12,9 +12,14 @@ I graduated from Tashkent Institute of Finance in 2015 and started working as a 
 
 HTML, CSS, Git, VS Code, Codepen.
 
-## My portfolio in Codepen:
+## Links to my projects:
+- [My Portfolio Webpage](https://codepen.io/MirshodM/full/PomoZrP)
+- [Tribute Page](https://codepen.io/MirshodM/full/ZEpYdmX)
+- [Survey Form](https://codepen.io/MirshodM/full/mdrwROj)
+- [Product Landing Page](https://codepen.io/MirshodM/full/bGwYZVr)
+- [Technical Documentation Webpage](https://codepen.io/MirshodM/full/bGwJBEQ)
 
-```
+```css
 <style>
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
