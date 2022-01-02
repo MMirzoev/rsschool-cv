@@ -1,24 +1,28 @@
 # Mirshod Mirzoev
 
-## Mobile : +998906353612
+## Contacts:
+- Github: [Mirshod-rgb](https://github.com/Mirshod-rgb)
+- LinkedIn: [Mirshod Mirzoev](https://www.linkedin.com/in/mirshod-mirzoev-6b575779)
+- E-mail : mirshod.mirzaev@mail.ru
+- Mobile : +998906353612
 
-## Email : mirshod.mirzaev@mail.ru
+## Short Bio:
 
-## Briefly:
-
-I graduated from Tashkent Institute of Finance in 2015 and started working as a specialist in corporate customer service at the commercial bank. For the last four years, I have been working as a purchasing agent in the textile manufacturing company of South Korea. My interest in programming derives from using various excel formulas for my everyday tasks. Initially, I started learning to code at freeCodeCamp.org in 2020, and successfully completed "Responsive Web Design" course with five projects on HTML and CSS. My aim is to be a programmer in a full time basis in near future. In my view, my interest in creating effective codes which accomplish the task with minimum steps is the reason that keeps me motivated to learn the new and to achieve my goal.  
+I hold a bachelor's degree in banking and started working as a specialist of corporate customer service in a commercial bank. For the past four years, I have been working as a procurement specialist for a South Korean textile manufacturing company. A high sense of responsibility, propensity for teamwork, honesty and perseverance have provided a number of achievements over my career in banking and finance. My interest in programming has arisen from using various Excel formulas to carry out everyday tasks. I originally started learning to code at freeCodeCamp.org in 2020, and have successfully completed "Responsive Web Design" course with five projects in HTML and CSS. My goal is to become a full-time programmer in the near future. In my view, my interest in creating effective codes that solve a problem with a minimum number of steps is the main reason that keeps me motivated to learn new things and achieve my goal. 
 
 ## Skills:  
 
 HTML, CSS, Git, VS Code, Codepen.
 
 ## Links to my projects:
+
 - [My Portfolio Webpage](https://codepen.io/MirshodM/full/PomoZrP)
 - [Tribute Page](https://codepen.io/MirshodM/full/ZEpYdmX)
 - [Survey Form](https://codepen.io/MirshodM/full/mdrwROj)
 - [Product Landing Page](https://codepen.io/MirshodM/full/bGwYZVr)
 - [Technical Documentation Webpage](https://codepen.io/MirshodM/full/bGwJBEQ)
 
+## Sample Codes from 'My Portfolio Webpage': 
 ```css
 <style>
 
@@ -268,19 +272,22 @@ footer p {
 ## Work experience:
 
 1 Feb 2018–Present	Senior Specialist of Procurement department <br>
-	POSCO International Textile LLC Bukhara Branch (foreign company)<br>
+	POSCO International Textile LLC Bukhara Branch (Foreign Company)<br>
 <br>	
 5 Oct 2015–30 Jun 2016	Specialist of Corporate customer service department<br>
 	Kapitalbank Bukhara branch, Joint Stock Commercial Bank (JSCB)<br>
  <br> 
 ## Education:
 
-18 Nov 2020-now Web development <br>
+13 Dec 2021-present: **JS/Frontend Development** <br>
   freeCodeCamp.org<br>
 <br>
-1 Sep 2011–30 Jun 2015	Bachelor's degree in Banking<br>
+18 Nov 2020-present: **Web development** <br>
+  freeCodeCamp.org<br>
+<br>
+1 Sep 2011–30 Jun 2015:	**Bachelor's degree in Banking**<br>
 	Tashkent Financial Institute <br>
 <br>
 ## Languages:
 	
-Uzbek, Russian, English (IELTS 7.5), Korean and Arabic.
+Uzbek, Russian, English *(C1-IELTS 7.5)*, Korean and Arabic.
