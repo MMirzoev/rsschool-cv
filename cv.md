@@ -271,22 +271,22 @@ footer p {
 
 ## Work experience:
 
-1 Feb 2018–Present	Senior Specialist of Procurement department <br>
+1 Feb 2018–Present	**Senior Specialist of Procurement department** <br>
 	POSCO International Textile LLC Bukhara Branch (Foreign Company)<br>
 <br>	
-5 Oct 2015–30 Jun 2016	Specialist of Corporate customer service department<br>
+5 Oct 2015–30 Jun 2016	**Specialist of Corporate customer service department**<br>
 	Kapitalbank Bukhara branch, Joint Stock Commercial Bank (JSCB)<br>
  <br> 
 ## Education:
 
 13 Dec 2021-present: **JS/Frontend Development** <br>
-  freeCodeCamp.org<br>
+  RS School (EPAM Training)<br>
 <br>
 18 Nov 2020-present: **Web development** <br>
   freeCodeCamp.org<br>
 <br>
 1 Sep 2011–30 Jun 2015:	**Bachelor's degree in Banking**<br>
-	Tashkent Financial Institute <br>
+	Tashkent Institute of Finance<br>
 <br>
 ## Languages:
 	
