@@ -16,6 +16,7 @@ HTML, CSS, Git, VS Code, Codepen.
 
 <code>
 <style>
+
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 
 /*background-color: #2d3645;*/
@@ -261,18 +262,18 @@ footer p {
 
 ## Work experience:
 
-1 Feb 2018–Present	Senior Specialist of Procurement department
-	POSCO International Textile LLC Bukhara Branch (foreign company)
-5 Oct 2015–30 Jun 2016	Specialist of Corporate customer service department
-	Kapitalbank Bukhara branch, Joint Stock Commercial Bank (JSCB)
+1 Feb 2018–Present	Senior Specialist of Procurement department <br>
+	POSCO International Textile LLC Bukhara Branch (foreign company)<br>
+5 Oct 2015–30 Jun 2016	Specialist of Corporate customer service department<br>
+	Kapitalbank Bukhara branch, Joint Stock Commercial Bank (JSCB)<br>
   
 ## Education:
 
-18 Nov 2020-now Web development 
-  freeCodeCamp.org
+18 Nov 2020-now Web development <br>
+  freeCodeCamp.org<br>
 
-1 Sep 2011–30 Jun 2015	Bachelor's degree in Banking
-	Tashkent Financial Institute 
+1 Sep 2011–30 Jun 2015	Bachelor's degree in Banking<br>
+	Tashkent Financial Institute <br>
 
 ## Languages:
 	
