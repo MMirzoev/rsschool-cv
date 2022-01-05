@@ -66,5 +66,3 @@ My goal is to become a full-time programmer in the near future. Over my career i
 - Russian (Upper-intermediate)<br>
 - English (Advanced-IELTS 7.5) - Studied as part of undergraduate courses and self-study.<br>
 - Korean (Intermediate)
-
-https://MMirzoev.github.io/rsschool-cv/cv
