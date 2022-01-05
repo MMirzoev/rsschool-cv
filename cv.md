@@ -1,7 +1,7 @@
 # Mirshod Mirzoev
 
 ## Contacts:
-- Github: [Mirshod Mirzoev (Mirshod-rgb)](https://github.com/Mirshod-rgb)
+- Github: [Mirshod Mirzoev (MMirzoev)](https://github.com/MMirzoev)
 - LinkedIn: [Mirshod Mirzoev](https://www.linkedin.com/in/mirshod-mirzoev-6b575779)
 - E-mail : mirshod.mirzaev@mail.ru
 - Mobile : +998906353612
