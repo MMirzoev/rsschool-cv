@@ -12,7 +12,11 @@ My goal is to become a full-time programmer in the near future. Over my career i
 
 ## Skills:  
 
-HTML, CSS, Git, VS Code, Codepen.
+- HTML
+- CSS
+- Git
+- VS Code
+- Codepen
 
 ## Links to my projects:
 
